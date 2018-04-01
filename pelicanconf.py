@@ -8,7 +8,7 @@ SITETITLE = "Dan Urson"
 SITESUBTITLE = "Gentleman Engineer"
 SITELOGO = "/images/profile.jpg"
 FAVICON = "/images/favicon.ico"
-SITEURL = "http://localhost:8000"
+SITEURL = "https://plygrnd.net"
 
 STATIC_PATHS = ['images']
 
