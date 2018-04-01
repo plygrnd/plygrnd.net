@@ -27,7 +27,7 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
-THEME = "/home/durson/pelican-themes/Flex"
+THEME = "themes/Flex"
 
 # Blogroll
 """
