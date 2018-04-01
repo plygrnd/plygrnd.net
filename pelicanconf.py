@@ -38,8 +38,7 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
 """
 # Social widget
 SOCIAL = (('linkedin', 'https://www.linkedin.com/in/durson'),
-          ('github', 'https://www.github.com/plygrnd'),
-          ('envelope-open', 'https://scr.im/plygrnd'),)
+          ('github', 'https://www.github.com/plygrnd'),)
 
 CC_LICENSE = {
     'name': 'Creative Commons Attribution-ShareAlike',
