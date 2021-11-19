@@ -19,7 +19,7 @@ menu = "main"
 
 * [LinkedIn](https://linkedin.com/in/durson)
 * [Keybase](https://keybase.io/durson)
-* Email coming soon.
+* Email: `echo ZGFuK3dlYnNpdGVAcGx5Z3JuZC5uZXQK | base64 -d`
 
 ## Skills
 
