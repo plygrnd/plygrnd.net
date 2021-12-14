@@ -71,7 +71,9 @@ menu = "main"
 ### January 2019 - Present  
 
 **Security Engineer** - **Amazon Web Services** - **United States of America**  
-    In 2019, I moved to the United States and continued in my role.
+    In this role, I am responsible for responding to and mitigating security issues which potentially affect AWS's services and infrastructure. This role requires in-depth knowledge of AWS's internal systems, coding standards, and incident response practices; it is at once a security engineering, customer relationship management, customer service and program management role.
+    I specialize in security research community engagement and coordinated vulnerability disclosure, as part of a small team of experts in this field. I am also responsible for creating tools and processes to streamline my team's work, and coaching/mentoring my colleagues. Notably, I coordinated AWS's response to a [finding](https://www.intruder.io/research/practical-http-header-smuggling) within an AWS service presented at Black Hat Europe 2021.
+   
 
 ### May 2017 - January 2019
 
