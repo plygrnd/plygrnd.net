@@ -1,15 +1,15 @@
 +++
-title = "The 10 Commandments of Coordinated Vulnerability Disclosure"
+title = "The 9 Commandments of Coordinated Vulnerability Disclosure"
 date = "2022-02-03T21:47:17-05:00"
 
-description = "The 10 Commandments of Coordinated Vulnerability Disclosure."
+description = "The 9 Commandments of Coordinated Vulnerability Disclosure."
 
 tags = ["cvd"]
 +++
 
 This was originally a [Twitter thread](https://twitter.com/notdurson/status/1489350457730469888). In case Twitter goes the way of the dodo, I'll preserve the content here (with some edits now that I'm no longer limited to 280 characters per point).
 
-The ten points below capture, at a high level, most of what I know about responsible disclosure/CVD/the ins and outs of reporting security issues in other people’s software.
+The nine points below capture, at a high level, most of what I know about responsible disclosure/CVD/the ins and outs of reporting security issues in other people’s software.
 
 
 1. Operate with good intentions in mind. You're hacking on other people’s stuff (and presumably doing so for the common good). Treat other people's infrastructure like you treat your phone/wallet/car/favorite plushie - respect it and try not to break it. If your targets publish rules of engagement, follow them to the letter.
