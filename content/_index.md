@@ -3,7 +3,9 @@ Hi. I'm Dan. Congrats, you found my website.
 
 # About
 
-I had an unorthodox start to my IT career, having bounced through culinary, delivery and customer service jobs in my professional life. I'm passionate about keeping people and their data safe. To this end, I currently work for [Amazon Web Services](https://aws.amazon.com)'s Security Operations team. in a security operations and incident response role.
+I had an unorthodox start to my IT career, having bounced through culinary, delivery and customer service jobs in my professional life. I'm passionate about keeping people and their data safe. 
+
+I most recently worked for [Amazon Web Services](https://aws.amazon.com)'s Security Operations team. in a security operations and incident response role. I co-founded AWS's security researcher outreach program during my tenure.
 
 Aside from a brief stint in culinary training, I'm entirely self-taught. My resume/CV is linked above.
 

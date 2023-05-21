@@ -37,4 +37,4 @@ ignoreErrors = ["error-disable-taxonomy"]
   # Another "title" :-). This one is used as the site_name on the Hugo's internal
   # opengraph structured data template.
   # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
-  title = "Plygrnd"
+  title = "Dan Urson"

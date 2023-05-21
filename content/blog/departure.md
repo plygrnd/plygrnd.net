@@ -1,8 +1,7 @@
 +++
-title = "On Departure" date = "2022-02-03T21:47:17-05:00"
-
+title = "On Departure" 
+date = "2022-02-03T21:47:17-05:00"
 description = "Thoughts on leaving my job after 11 years"
-
 tags = ["amazon", "life-update", "ramblings"] 
 +++
 
