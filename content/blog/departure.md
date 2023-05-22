@@ -1,6 +1,6 @@
 +++
 title = "On Departure" 
-date = "2022-05-20T23:58:17-05:00"
+date = "2023-05-20T23:58:17-05:00"
 description = "Thoughts on leaving my job after 11 years"
 tags = ["amazon", "life-update", "ramblings"] 
 +++
@@ -27,7 +27,7 @@ I'm looking for a new gig. Priority one, however, is relaxing with my family and
 
 1. Companies aren't people. They don't know what "loyalty" means. Don't trust them to acknowledge loyalty from others.
 2. Work is a means to an end, not the total of existence. Work starts and stops at the beginning and end of the work day. Anything extra is your gift to give.
-3. Family and friends come first, always. Work provides for the family, but family is only family once it's whole - and it will only be complete if members spend their entire lives at work.
+3. Family and friends come first, always. Work provides for the family, but family is only family once it's whole - and it will only be complete if members avoid spending their entire lives at work.
 4. Above all, be true to yourself. If you feel like something's wrong in a situation, it almost certainly is.
 5. And "wrongness" is subjective. You could have strong feelings about a comment passed by someone else, or you might be upset by an upcoming event. If you do, express them (see point 4)
 
