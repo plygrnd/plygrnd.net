@@ -17,7 +17,7 @@ This privacy notice for Plygrnd LLC ("**we**," "**us**," or "**our**"), describe
 
   
 
-**_This summary provides key points from our privacy notice, but you can find out more details about any of these topics by clicking the link following each key point or by using our_** [**_table of contents_**](#toc) **_below to find the section you are looking for._**
+**_This summary provides key points from our privacy notice, but you can find out more details about any of these topics by clicking the link following each key point or by using our _** [**_table of contents_**](#toc) **_ below to find the section you are looking for._**
 
   
 
